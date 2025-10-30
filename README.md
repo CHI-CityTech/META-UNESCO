@@ -1,161 +1,73 @@
-# [Project Title]
+# UNESCO Meta-Project: A CHI Initiative for Interdisciplinary Cultural Transformation
 
-<!-- Replace [Project Title] with your actual research project name -->
+## Overview
 
-## Project Overview
+The **UNESCO Meta-Project** is a transdisciplinary initiative led by the **Center for Holistic Integration (CHI)** at the **New York City College of Technology (CUNY)**. It brings together a growing constellation of research, performance, cultural preservation, and technological sub-projects that engage directly with **UNESCO World Heritage Sites** and **Intangible Cultural Heritage** practices across the globe.
 
-**Research Focus**: [Brief description of your research question or project goals]
+Encompassing fields as diverse as **engineering, performance, design, history, architecture, cultural studies, computational systems, philosophy**, and **speculative storytelling**, the initiative provides an open framework for **all people and all disciplines** to participate in the critical reimagination of cultural legacies. The immense diversity of UNESCO-recognized artifacts and practices enables **virtually unlimited research and creative pathways**, grounded in rigorous scholarship and mutual respect.
 
-**CHI Meta-Project Connection**: [List which CHI meta-projects this research contributes to]
-- [ ] META-Balanced-Blended-Space
-- [ ] META-Blended-Shadow-Puppet  
-- [ ] META-Collaborative-AI
-- [ ] META-International-Collaboration
-- [ ] META-Cultural-Popup-Experiences
-- [ ] META-Blended-Reality-Performance-System
-- [ ] Other: [Specify]
+Rooted in CHI’s **Balanced Blended Space (BBS)** framework, the Meta-Project promotes **symbolic continuity**, **epistemological transparency**, and **interdisciplinary synthesis**—modeling how heritage can be experienced, preserved, taught, and transformed through mediated collaboration. The UNESCO Meta-Project also serves as a living model for studying **Mediation Pathways** within BBS, allowing researchers to trace and formalize how meaning, identity, and information move across physical, digital, and symbolic spaces.
 
-**Current SRDMPA Phase**: [Select current phase]
-- [ ] **Speculate** - Forming research questions and hypotheses
-- [ ] **Research** - Literature review and background investigation
-- [ ] **Design** - Planning methodology and approach
-- [ ] **Make** - Implementing, building, or conducting research
-- [ ] **Publish** - Documenting and sharing results
-- [ ] **Assess** - Evaluating outcomes and planning next steps
+A key sub-component of the initiative is the **Fictive Universe Project**, developed within CHI’s **Blended Shadow Puppet (BSP)** framework. This speculative storytelling platform invites students and researchers to **map real-world cultural phenomena into a consistent fictional world**, transforming heritage into narrative, metaphor, and symbolic logic. This narrative mediation creates a recursive feedback loop between imagination and documentation, in which invented cultural expressions are always **anchored in verifiable source material**.
 
-## 🚀 Quick Setup (Complete These Steps First)
+The UNESCO Meta-Project thus offers both a practical and visionary foundation for interdisciplinary cultural transformation. It is an evolving tapestry—part archive, part laboratory, part stage—welcoming new collaborators who share a commitment to **ethical engagement**, **creative transformation**, and **intellectual reciprocity**.
 
-### 1. Set Up Project Board
-1. **Go to Projects tab** → **New project**
-2. **Select "CHI Research Template"** from organization templates (if available)
-   - OR manually create **Board layout** with columns: Backlog → In Progress → In Review → Done
-3. **Name**: `[Your Project Name] Research Progress`
-4. **Link this repository** to the project
+## Project Philosophy
 
-### 2. Update This README
-- [ ] Replace `[Project Title]` with your actual project name
-- [ ] Fill in your research focus and goals
-- [ ] Select your CHI meta-project connections
-- [ ] Choose your current SRDMPA phase
+At the heart of the UNESCO Meta-Project is the belief that:
+- Cultural heritage is not static but dynamic—transmissible through narrative, embodiment, and reinterpretation.
+- Heritage should be both **preserved and transformed**, allowing new generations to engage with ancestral knowledge systems through contemporary technologies.
+- Artistic, technological, and scholarly disciplines must work in **collaborative balance**, honoring the past while innovating future modes of storytelling, ritual, and education.
 
-### 3. Create First Issues
-- [ ] **Milestone Issue**: Define your first major deliverable using the Milestone template
-- [ ] **Research Log Issue**: Start weekly progress tracking using Research Log template
-- [ ] **Label appropriately**: Use `01-speculate` through `06-assess` plus `activity-*` labels
+The Meta-Project operates within CHI’s principles of:
+- **Holism**: Engaging all modalities—physical, digital, symbolic, and human.
+- **Collaboration**: Bringing together faculty, students, artists, technologists, and cultural stakeholders.
+- **Distributed Participation**: Creating frameworks for multiple institutions to contribute meaningfully.
 
-### 4. Follow Detailed Setup
-See [`docs/researcher-setup.md`](docs/researcher-setup.md) for complete configuration guide.
+## Sub-Projects within the UNESCO Meta-Project
 
----
+### 1. **Agrigento Digital & Performance Project (Italy)**
+- **Site**: Valley of the Temples, Agrigento – UNESCO World Heritage Site
+- **Focus**: Digital twin creation, temporal mapping, immersive performance layers
+- **Partners**: CHI, Marco Savatteri Productions, University of Palermo, Urban Vision Group
+- **Modes**: VR, AR, symbolic scenography, workshop/performance integration (e.g., *Il Risveglio degli Dei*)
 
-## Project Overview
+### 2. **Modul University Collaboration (Austria)**
+- **Site**: UNESCO integration through ethics, data, and systems thinking
+- **Focus**: Interdisciplinary curriculum design for AI, sustainability, and cultural impact
+- **Partners**: Modul University Vienna, CHI, AAECA
+- **Modes**: Ethical frameworks, data narratives, course development (e.g., SEID 2364, Collaborative AI)
 
-**Research Focus**: [Brief description of your research question or project goals]
+### 3. **Gamelan & Wayang Kulit Preservation Project (Indonesia)**
+- **Site**: Javanese Gamelan and Wayang Kulit – UNESCO Intangible Cultural Heritage
+- **Focus**: Reinterpretation of traditional musical and performative forms within the Blended Shadow Puppet Project
+- **Partners**: CHI, student composers, ethnomusicologists, interdisciplinary performers
+- **Modes**: Digital puppetry, virtual orchestration, MIDI-based gamelan synthesis, narrative expansion
 
-**CHI Meta-Project Connection**: [List which CHI meta-projects this research contributes to]
-- [ ] META-Balanced-Blended-Space
-- [ ] META-Blended-Shadow-Puppet  
-- [ ] META-Collaborative-AI
-- [ ] META-International-Collaboration
-- [ ] META-Cultural-Popup-Experiences
-- [ ] META-Blended-Reality-Performance-System
-- [ ] Other: [Specify]
+### 4. **AAECA Cultural Diplomacy and Research Exchange (Austria/USA)**
+- **Site**: Intercultural bridge-building through UNESCO-aligned initiatives
+- **Focus**: Enabling mobility, cross-institutional research, and joint publication
+- **Partners**: Austrian American Educational Cooperation Association (AAECA), CHI, Modul University, CUNY
+- **Modes**: Conference participation, joint proposals, international student and faculty exchange
 
-**Current SRDMPA Phase**: [Select current phase]
-- [ ] **01-Speculate** - Forming research questions and hypotheses
-- [ ] **02-Research** - Literature review and background investigation
-- [ ] **03-Design** - Planning methodology and approach
-- [ ] **04-Make** - Implementing, building, or conducting research
-- [ ] **05-Publish** - Documenting and sharing results
-- [ ] **06-Assess** - Evaluating outcomes and planning next steps
+## Integrative Role of CHI and the BBS Framework
 
-## Getting Started
+All sub-projects are unified through the CHI’s **Balanced Blended Space (BBS)** framework, which models how experiences and information flow between **physical, digital, and symbolic domains**. Through BBS:
+- Mediation pathways can be documented and analyzed.
+- Performances can be mapped as structured signal flows.
+- Cultural artifacts can be translated across time, space, and modality.
 
-### Prerequisites
-- [List any software, hardware, or knowledge requirements]
-- [Include setup instructions for specialized tools]
+CHI serves as both **coordinator and conceptual engine**, ensuring that:
+- All projects remain grounded in **UNESCO’s preservation mission**.
+- Each sub-project can scale and evolve without losing symbolic coherence.
+- Students and collaborators understand their roles as both creators and interpreters.
 
-### Getting Started
-1. **Clone this repository** and follow setup in `docs/researcher-setup.md`
-2. **Review project structure** in `docs/repository-structure.md`
-3. **Create your first milestone** using the Milestone issue template
-4. **Start research logging** with weekly Research Log issues
 
-### Key Files to Update
-- [ ] **This README**: Replace placeholders with your project details
-- [ ] **CITATION.cff**: Update with your project information
-- [ ] **docs/research-notes/**: Add your initial research questions
-- [ ] **references/meta-projects.md**: Link to relevant CHI meta-projects
+## Anticipated Outcomes
+- Immersive cultural performances linked to specific heritage sites.
+- VR/AR reconstructions with historical and mythological layering.
+- Curriculum modules co-developed across institutions.
+- Joint research papers and open-access digital archives.
+- Expanded student mobility and global research participation.
+- New frameworks for how technology and tradition co-exist.
 
-## Research Progress
-
-### Current Milestones
-[Use GitHub Issues with Milestone template to track major deliverables]
-
-### Recent Activity
-[Use Research Log issues to document weekly progress]
-
-### AI Collaboration
-[Use AI Collaboration Report issues to track and evaluate AI tool usage]
-
-## Data and Analysis
-
-### Data Sources
-[Describe your data sources, collection methods, or experimental setup]
-
-### Key Findings
-[Update as your research progresses - link to notebooks, papers, or presentations]
-
-### Reproducibility
-[Instructions for reproducing your analysis - reference specific notebooks or scripts]
-
-## Repository Structure
-
-- **`data/`** - Research datasets (raw and processed)
-- **`src/`** - Source code and analysis functions
-- **`notebooks/`** - Jupyter notebooks organized by research phase
-- **`docs/`** - Documentation and research notes
-- **`references/`** - Literature, citations, and external resources
-- **`assets/`** - Figures, presentations, and media files
-
-For detailed explanations, see `docs/repository-structure.md`.
-
-## Contributing
-
-### For Collaborators
-[Instructions for team members joining the project]
-
-### For External Contributors
-See `CONTRIBUTING.md` for guidelines on contributing to this research project.
-
-## Citation
-
-If you use or reference this work, please cite:
-
-```bibtex
-[Your CITATION.cff file will generate the appropriate citation format]
-```
-
-See `CITATION.cff` for complete citation information.
-
-## License
-
-[Specify your license - update LICENSE file accordingly]
-
-## Contact
-
-**Researcher**: [Your name and contact information]  
-**Institution**: City University of New York - New York City College of Technology  
-**CHI Affiliation**: [Your role in the Center for Holistic Integration]  
-**Advisor/Supervisor**: [If applicable]
-
-## Acknowledgments
-
-- **CHI Community** - Center for Holistic Integration research ecosystem
-- **Meta-Project Leaders** - [Acknowledge relevant meta-project coordinators]
-- **AI Collaboration** - [Acknowledge AI tools used and their contribution]
-- **Funding/Support** - [Acknowledge grants, institutions, or other support]
-
----
-
-*This repository was created using the [CHI Research Template](https://github.com/CHI-CityTech/CHI-Research-Template) and follows CHI research methodology and standards.*
