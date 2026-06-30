@@ -32,7 +32,7 @@ The Meta-Project operates within CHI’s principles of:
 - **Partners**: CHI, Marco Savatteri Productions, University of Palermo, Urban Vision Group
 - **Modes**: VR, AR, symbolic scenography, workshop/performance integration (e.g., *Il Risveglio degli Dei*)
 
-### 2. **Modul University Collaboration (Austria)**
+### 2. **Modul University Collaboration (Austria) (Proposed)**
 - **Site**: UNESCO integration through ethics, data, and systems thinking
 - **Focus**: Interdisciplinary curriculum design for AI, sustainability, and cultural impact
 - **Partners**: Modul University Vienna, CHI, AAECA
